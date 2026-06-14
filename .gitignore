@@ -23,6 +23,9 @@ coverage
 !.vscode/extensions.json
 .idea
 
+# Repomix
+repomix-output.*
+
 # Logs
 *.log
 npm-debug.log*

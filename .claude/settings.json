@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "**/node_modules/**",
+      "**/.next/**",
+      "**/out/**",
+      "**/dist/**",
+      "**/.env*",
+      "**/.git/**"
+    ]
+  }
+}
